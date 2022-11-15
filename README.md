@@ -1,3 +1,23 @@
+# Sadiqur's Fitness Committee
+## created by Sadiqur Sakib
+
+![Alt text](/SadiqurFC_page.png "Screenshot of webpage")
+
+
+A Responsive fitness application that displays a variety of exercises users can do. The application features gifs of how to perform the exercise, youtube videos to get a better demonstrating or understanding of the exerise, able to search any exercise or search what muscle the user wants to exercise is given a variety of exercise options for that muscle/muscle group. 
+
+The purpose of this project was to give users who are new to working out or even intermediate users a better understanding of what exercises can best help them based on their specific goals. 
+
+## Technology used to create application
+
+- React
+- Material UI
+- RapidAPI exerciseDB
+- Rapid API youtube Search
+
+## Disclaimer
+Currently the application uses a free subscription version of the APIs, as a result the number of requests per month has been reached and the offical build is unable to be displayed.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
