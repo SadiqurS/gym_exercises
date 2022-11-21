@@ -18,6 +18,11 @@ The purpose of this project was to give users who are new to working out or even
 ## Disclaimer
 Currently the application uses a free subscription version of the APIs, as a result the number of requests per month has been reached and the offical build is unable to be displayed.
 
+## Future Updats
+- Update API requests
+- Implement component page with fitness planning for every individual
+- possibily intergrate a mobile web app
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
